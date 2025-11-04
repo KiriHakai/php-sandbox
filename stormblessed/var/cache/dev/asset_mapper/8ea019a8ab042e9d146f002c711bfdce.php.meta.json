@@ -1,0 +1,1 @@
+{"resources":[{"@type":"Symfony\\Component\\Config\\Resource\\FileResource","resource":"/home/archakai/PhpstormProjects/sandbox/assets/controllers/hello_controller.js"},{"@type":"Symfony\\Component\\Config\\Resource\\FileExistenceResource","exists":true,"resource":"/home/archakai/PhpstormProjects/sandbox/assets/vendor/@hotwired/stimulus/stimulus.index.js"}]}
